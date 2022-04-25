@@ -4,6 +4,12 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Created by vebjorn
+ * Date: 25/04/2022, Monday
+ * Time: 15:43
+ **/
+
 @Entity
 public class Author {
     @Id
